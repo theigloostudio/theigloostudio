@@ -11,6 +11,10 @@ body {
     justify-content: center;
 }
 
+.canvas {
+    position: relative;
+}
+
 .snowing {
     position: absolute;
     filter: blur(.8px);
